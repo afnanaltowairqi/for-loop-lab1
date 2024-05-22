@@ -61,3 +61,11 @@ console.log(check(9));
 console.log(check(15));
 console.log(check(20));
 console.log(check(1));
+/*------------------------------------Lab 3 Array----------------------------------------*/
+
+var Arr = [1,2,3,4,5]
+var newArr=[];
+for (i=0; i<Arr.length; i++){
+    newArr.push(Arr[i]*10)
+}
+console.log(newArr);
