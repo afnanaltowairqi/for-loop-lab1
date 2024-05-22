@@ -2,7 +2,7 @@
 for (index=0; index>=-25;index-=2){
     console.log(index);
 }
-2
+//2
 for (index=1; index<=10;index*=2){
     console.log(index);
 }
