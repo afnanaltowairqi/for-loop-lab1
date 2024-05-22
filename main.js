@@ -1,8 +1,8 @@
-//1
+// //1
 for (index=0; index>=-25;index-=2){
     console.log(index);
 }
-//2
+// //2
 for (index=1; index<=10;index*=2){
     console.log(index);
 }
@@ -12,7 +12,7 @@ for (i=1; i<=20;i+=2){
     console.log(i);
 }
 
-//4
+// //4
 let number =0
 let num1 =0
 let num2=2
@@ -22,9 +22,9 @@ for (i=0; i<=number;i++){
 }
 //5
 
-// //6
-// for (i=){
-//     for (){
-
-//     }
-// }
+//6
+for (i=1; i<=3;i++ ){
+    for (j=1;j<=10;j++){
+        console.log(i +'*'+j +'='+ i*j);
+    }
+}
